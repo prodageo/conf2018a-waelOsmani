@@ -15,7 +15,7 @@
 ## Résumé
 Résumer en 200 mots maximum l'essentiel de la conférence (on s'attachera notamment à mettre en exergue les élements qui permettront de justifier le facteur qualité retenu dans la section suivante).
 
-##Architecture et facteur qualité
+## Architecture et facteur qualité
 Sur quel facteur qualité le sujet de la conférence peut-il influer ?
 
 Pour plus d'information, voir le site [conférence technique CASI](http://prodageo.insa-rouen.fr/casi/confperso/main.html).
