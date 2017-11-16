@@ -3,7 +3,7 @@
 ## Cartouche d'identification
 
  - Manifestation : CodeursEnSeine 2017
- - Lieu : Universite de Rouen - site du Madrillet
+ - Lieu : Université de Rouen - site du Madrillet
  - Conférence : ...
  - Horaire de la conférence : ...
  - Conférencier(s) :
