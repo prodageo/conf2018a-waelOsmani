@@ -1,5 +1,9 @@
 # Consignes
 
+Le texte à éditer se trouve dans votre dépôt https://github.com/prodageo/conf2017a-_pseudo_/docs/billet.md où
+ - _pseudo_ : votre pseudo sur github, indiqué dans le menu en haut à droite sous la commande sign in as _pseudo_
+Le plan est pré-établi, il ne vous reste qu'à remplir selon les consignes ci-dessous !
+
 ## Cartouche d'identification
 
  - Manifestation : CodeursEnSeine 2017
@@ -17,6 +21,6 @@
 Résumer en 200 mots maximum l'essentiel de la conférence (on s'attachera notamment à mettre en exergue les élements qui permettront de justifier le facteur qualité retenu dans la section suivante).
 
 ## Architecture et facteur qualité
-Sur quel facteur qualité le sujet de la conférence peut-il influer ?
+Préciser sur quel facteur qualité le sujet de la conférence peut influer et justifier à l'aide d'illustration évoquée au cours de la conférence notamment.
 
 Pour plus d'information, voir le site [conférence technique CASI](http://prodageo.insa-rouen.fr/casi/confperso/main.html).
