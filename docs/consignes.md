@@ -1,6 +1,7 @@
 # Consignes
 
-Le texte à éditer se trouve dans votre dépôt [https://github.com/prodageo/conf2017a-_pseudo_/docs/billet.md](https://github.com/) où
+Le texte à éditer se trouve dans votre dépôt
+[https://github.com/prodageo/conf2017a-_pseudo_/blob/master/docs/billet.md](https://github.com/) où
  - _pseudo_ : votre pseudo sur github, indiqué dans le menu en haut à droite sous la commande sign in as _pseudo_
 Le plan est pré-établi, il ne vous reste qu'à remplir selon les consignes ci-dessous !
 
