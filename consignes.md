@@ -22,9 +22,9 @@ Le plan est pré-établi, il ne vous reste qu'à remplir selon les consignes ci-
  - Mots-clés
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence
- - Nombre de diapos du support :
- - Plan du support :
+ - Lien vers le support (diapos) présenté en conférence : faites des efforts pour obtenir cette information (ou un lien vers le film de la présentation)
+ - Nombre de diapos du support : nombre de diapos du support présentés (si aucune diapo, alors mettre 0), si inconnu mettre non dispo.
+ - Plan du support : indiquer les principales rubriques du support présenté (ou de la présentation)
 
 ## Résumé
 Résumer en 200 mots maximum l'essentiel de la conférence (on s'attachera notamment à mettre en exergue les élements qui permettront de justifier le facteur qualité retenu dans la section suivante).
